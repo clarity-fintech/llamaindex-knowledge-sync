@@ -1,0 +1,168 @@
+// Moniversive Invariant Static (MIS) — deep root
+// Creator: Chandler William Ferguson
+// Letter-hash + EMBED gates 3..=6 · settlement clrty-1 / chain 1202
+// Compile: bin/misc <file>.mis --check --compact-letters
+// Title: LlamaIndex Knowledge Sync · StoreBind
+
+module LlamaIndexKnowledgeSyncStoreBind {
+
+  invariant letter_hash_bound: letter_hash_root != @0;
+  invariant deep_root_moniversive: deep_root == moniversive;
+  invariant settlement_chain: chain_id == 1202;
+  invariant settlement_network_clrty1: settlement_network == clrty_1;
+  invariant kernel_is_misc: compiler_kernel == misc;
+  invariant pack_store_bind_bound: pack_bound == true;
+  invariant catalog_backlink: mis_catalog_bound == true;
+
+  invariant store_bind_061: store_bind_061_bound == true;
+  invariant store_bind_062: store_bind_062_bound == true;
+  invariant store_bind_063: store_bind_063_bound == true;
+  invariant store_bind_064: store_bind_064_bound == true;
+  invariant store_bind_065: store_bind_065_bound == true;
+  invariant store_bind_066: store_bind_066_bound == true;
+  invariant store_bind_067: store_bind_067_bound == true;
+  invariant store_bind_068: store_bind_068_bound == true;
+  invariant store_bind_069: store_bind_069_bound == true;
+  invariant store_bind_070: store_bind_070_bound == true;
+  invariant store_bind_071: store_bind_071_bound == true;
+  invariant store_bind_072: store_bind_072_bound == true;
+  invariant store_bind_073: store_bind_073_bound == true;
+  invariant store_bind_074: store_bind_074_bound == true;
+  invariant store_bind_075: store_bind_075_bound == true;
+  invariant store_bind_076: store_bind_076_bound == true;
+  invariant store_bind_077: store_bind_077_bound == true;
+  invariant store_bind_078: store_bind_078_bound == true;
+  invariant store_bind_079: store_bind_079_bound == true;
+  invariant store_bind_080: store_bind_080_bound == true;
+
+  outcome assert_pack(payload: Bytes) {
+    require payload != @0;
+    constraint pack_bound == true;
+  }
+
+  outcome settle_clrty1(intent: Bytes) {
+    require intent != @0;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_061(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_061_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_062(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_062_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_063(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_063_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_064(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_064_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_065(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_065_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_066(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_066_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_067(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_067_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_068(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_068_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_069(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_069_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_070(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_070_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_071(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_071_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_072(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_072_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_073(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_073_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_074(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_074_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_075(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_075_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_076(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_076_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_077(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_077_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_078(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_078_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_079(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_079_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_store_bind_080(payload: Bytes) {
+    require payload != @0;
+    constraint store_bind_080_bound == true;
+    constraint chain_id == 1202;
+  }
+
+}

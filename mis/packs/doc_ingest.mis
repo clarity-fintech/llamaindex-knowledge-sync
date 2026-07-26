@@ -1,0 +1,168 @@
+// Moniversive Invariant Static (MIS) — deep root
+// Creator: Chandler William Ferguson
+// Letter-hash + EMBED gates 3..=6 · settlement clrty-1 / chain 1202
+// Compile: bin/misc <file>.mis --check --compact-letters
+// Title: LlamaIndex Knowledge Sync · DocIngest
+
+module LlamaIndexKnowledgeSyncDocIngest {
+
+  invariant letter_hash_bound: letter_hash_root != @0;
+  invariant deep_root_moniversive: deep_root == moniversive;
+  invariant settlement_chain: chain_id == 1202;
+  invariant settlement_network_clrty1: settlement_network == clrty_1;
+  invariant kernel_is_misc: compiler_kernel == misc;
+  invariant pack_doc_ingest_bound: pack_bound == true;
+  invariant catalog_backlink: mis_catalog_bound == true;
+
+  invariant doc_ingest_001: doc_ingest_001_bound == true;
+  invariant doc_ingest_002: doc_ingest_002_bound == true;
+  invariant doc_ingest_003: doc_ingest_003_bound == true;
+  invariant doc_ingest_004: doc_ingest_004_bound == true;
+  invariant doc_ingest_005: doc_ingest_005_bound == true;
+  invariant doc_ingest_006: doc_ingest_006_bound == true;
+  invariant doc_ingest_007: doc_ingest_007_bound == true;
+  invariant doc_ingest_008: doc_ingest_008_bound == true;
+  invariant doc_ingest_009: doc_ingest_009_bound == true;
+  invariant doc_ingest_010: doc_ingest_010_bound == true;
+  invariant doc_ingest_011: doc_ingest_011_bound == true;
+  invariant doc_ingest_012: doc_ingest_012_bound == true;
+  invariant doc_ingest_013: doc_ingest_013_bound == true;
+  invariant doc_ingest_014: doc_ingest_014_bound == true;
+  invariant doc_ingest_015: doc_ingest_015_bound == true;
+  invariant doc_ingest_016: doc_ingest_016_bound == true;
+  invariant doc_ingest_017: doc_ingest_017_bound == true;
+  invariant doc_ingest_018: doc_ingest_018_bound == true;
+  invariant doc_ingest_019: doc_ingest_019_bound == true;
+  invariant doc_ingest_020: doc_ingest_020_bound == true;
+
+  outcome assert_pack(payload: Bytes) {
+    require payload != @0;
+    constraint pack_bound == true;
+  }
+
+  outcome settle_clrty1(intent: Bytes) {
+    require intent != @0;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_001(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_001_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_002(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_002_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_003(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_003_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_004(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_004_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_005(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_005_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_006(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_006_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_007(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_007_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_008(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_008_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_009(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_009_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_010(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_010_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_011(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_011_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_012(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_012_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_013(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_013_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_014(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_014_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_015(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_015_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_016(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_016_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_017(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_017_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_018(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_018_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_019(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_019_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_doc_ingest_020(payload: Bytes) {
+    require payload != @0;
+    constraint doc_ingest_020_bound == true;
+    constraint chain_id == 1202;
+  }
+
+}

@@ -1,0 +1,168 @@
+// Moniversive Invariant Static (MIS) — deep root
+// Creator: Chandler William Ferguson
+// Letter-hash + EMBED gates 3..=6 · settlement clrty-1 / chain 1202
+// Compile: bin/misc <file>.mis --check --compact-letters
+// Title: LlamaIndex Knowledge Sync · AugmentContext
+
+module LlamaIndexKnowledgeSyncAugmentContext {
+
+  invariant letter_hash_bound: letter_hash_root != @0;
+  invariant deep_root_moniversive: deep_root == moniversive;
+  invariant settlement_chain: chain_id == 1202;
+  invariant settlement_network_clrty1: settlement_network == clrty_1;
+  invariant kernel_is_misc: compiler_kernel == misc;
+  invariant pack_augment_context_bound: pack_bound == true;
+  invariant catalog_backlink: mis_catalog_bound == true;
+
+  invariant augment_context_081: augment_context_081_bound == true;
+  invariant augment_context_082: augment_context_082_bound == true;
+  invariant augment_context_083: augment_context_083_bound == true;
+  invariant augment_context_084: augment_context_084_bound == true;
+  invariant augment_context_085: augment_context_085_bound == true;
+  invariant augment_context_086: augment_context_086_bound == true;
+  invariant augment_context_087: augment_context_087_bound == true;
+  invariant augment_context_088: augment_context_088_bound == true;
+  invariant augment_context_089: augment_context_089_bound == true;
+  invariant augment_context_090: augment_context_090_bound == true;
+  invariant augment_context_091: augment_context_091_bound == true;
+  invariant augment_context_092: augment_context_092_bound == true;
+  invariant augment_context_093: augment_context_093_bound == true;
+  invariant augment_context_094: augment_context_094_bound == true;
+  invariant augment_context_095: augment_context_095_bound == true;
+  invariant augment_context_096: augment_context_096_bound == true;
+  invariant augment_context_097: augment_context_097_bound == true;
+  invariant augment_context_098: augment_context_098_bound == true;
+  invariant augment_context_099: augment_context_099_bound == true;
+  invariant augment_context_100: augment_context_100_bound == true;
+
+  outcome assert_pack(payload: Bytes) {
+    require payload != @0;
+    constraint pack_bound == true;
+  }
+
+  outcome settle_clrty1(intent: Bytes) {
+    require intent != @0;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_081(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_081_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_082(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_082_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_083(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_083_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_084(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_084_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_085(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_085_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_086(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_086_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_087(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_087_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_088(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_088_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_089(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_089_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_090(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_090_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_091(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_091_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_092(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_092_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_093(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_093_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_094(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_094_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_095(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_095_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_096(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_096_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_097(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_097_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_098(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_098_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_099(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_099_bound == true;
+    constraint chain_id == 1202;
+  }
+
+  outcome assert_augment_context_100(payload: Bytes) {
+    require payload != @0;
+    constraint augment_context_100_bound == true;
+    constraint chain_id == 1202;
+  }
+
+}
