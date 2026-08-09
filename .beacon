@@ -1,0 +1,28 @@
+// CLRTY-LLAMAINDEX-KNOWLEDGE-SYNC node beacon — clarity-fintech / clrty-1 / 1202
+// GitHub: https://github.com/clarity-fintech/llamaindex-knowledge-sync
+// Check twin: bin/misc moniversive/framework/beacons/llamaindex-knowledge-sync.mis --check --compact-letters
+
+module ClrtyLlamaindexKnowledgeSyncBeacon {
+
+  invariant letter_hash_bound: letter_hash_root != @0;
+  invariant deep_root_moniversive: deep_root == moniversive;
+  invariant settlement_chain: chain_id == 1202;
+  invariant beacon_id: beacon_id == clrty_llamaindex_knowledge_sync;
+  invariant node_name: node_name == clrty_llamaindex_knowledge_sync;
+
+  outcome heartbeat(seq: Bytes) {
+    require seq != @0;
+    constraint chain_id == 1202;
+    constraint heartbeat_ok == true;
+  }
+
+  outcome superstructure_bind(catalog: Bytes) {
+    require catalog != @0;
+    constraint superstructure_linked == true;
+  }
+
+  outcome letter_hash(payload: Bytes) {
+    require payload != @0;
+    constraint letter_root != @0;
+  }
+}
