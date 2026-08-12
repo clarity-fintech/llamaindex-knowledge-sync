@@ -38995,7 +38995,7 @@
     },
     {
       "name": "CLRTY-URL-003457",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui",
+      "url": "https://github.com/clarity-fintech/governance-ui",
       "insert_seq": 3457,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39004,7 +39004,7 @@
     },
     {
       "name": "CLRTY-URL-003458",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/backlinks/MisBacklinkIndex.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/backlinks/MisBacklinkIndex.mis",
       "insert_seq": 3458,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39013,7 +39013,7 @@
     },
     {
       "name": "CLRTY-URL-003459",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/commands/RealmsGovernanceUiCommandCatalog.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/commands/GovernanceUiCommandCatalog.mis",
       "insert_seq": 3459,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39022,7 +39022,7 @@
     },
     {
       "name": "CLRTY-URL-003460",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/commands/RealmsGovernanceUiCommands.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/commands/GovernanceUiCommands.mis",
       "insert_seq": 3460,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39031,7 +39031,7 @@
     },
     {
       "name": "CLRTY-URL-003461",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/commands/RealmsGovernanceUiNetworkBind.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/commands/GovernanceUiNetworkBind.mis",
       "insert_seq": 3461,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39040,7 +39040,7 @@
     },
     {
       "name": "CLRTY-URL-003462",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/kernel/RealmsGovernanceUiKernel.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/kernel/GovernanceUiKernel.mis",
       "insert_seq": 3462,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39049,7 +39049,7 @@
     },
     {
       "name": "CLRTY-URL-003463",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/packs/dashboard_bind.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/packs/dashboard_bind.mis",
       "insert_seq": 3463,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39058,7 +39058,7 @@
     },
     {
       "name": "CLRTY-URL-003464",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/packs/plugin_surface.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/packs/plugin_surface.mis",
       "insert_seq": 3464,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39067,7 +39067,7 @@
     },
     {
       "name": "CLRTY-URL-003465",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/packs/proposal_view.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/packs/proposal_view.mis",
       "insert_seq": 3465,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39076,7 +39076,7 @@
     },
     {
       "name": "CLRTY-URL-003466",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/packs/treasury_action.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/packs/treasury_action.mis",
       "insert_seq": 3466,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39085,7 +39085,7 @@
     },
     {
       "name": "CLRTY-URL-003467",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/packs/vote_delegate.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/packs/vote_delegate.mis",
       "insert_seq": 3467,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39094,7 +39094,7 @@
     },
     {
       "name": "CLRTY-URL-003468",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
       "insert_seq": 3468,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39103,7 +39103,7 @@
     },
     {
       "name": "CLRTY-URL-003469",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/GradientBand.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/GradientBand.mis",
       "insert_seq": 3469,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39112,7 +39112,7 @@
     },
     {
       "name": "CLRTY-URL-003470",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/LanguageRoot.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/LanguageRoot.mis",
       "insert_seq": 3470,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39121,7 +39121,7 @@
     },
     {
       "name": "CLRTY-URL-003471",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisAllCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisAllCodeIndex.mis",
       "insert_seq": 3471,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39130,7 +39130,7 @@
     },
     {
       "name": "CLRTY-URL-003472",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisArchitecture.mis",
       "insert_seq": 3472,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39139,7 +39139,7 @@
     },
     {
       "name": "CLRTY-URL-003473",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MiscCompiler.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MiscCompiler.mis",
       "insert_seq": 3473,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39148,7 +39148,7 @@
     },
     {
       "name": "CLRTY-URL-003474",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisChainIntake.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisChainIntake.mis",
       "insert_seq": 3474,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39157,7 +39157,7 @@
     },
     {
       "name": "CLRTY-URL-003475",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisCodeIndex.mis",
       "insert_seq": 3475,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39166,7 +39166,7 @@
     },
     {
       "name": "CLRTY-URL-003476",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisEcosystemRepos.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisEcosystemRepos.mis",
       "insert_seq": 3476,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39175,7 +39175,7 @@
     },
     {
       "name": "CLRTY-URL-003477",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisKernelActiveOnly.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisKernelActiveOnly.mis",
       "insert_seq": 3477,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39184,7 +39184,7 @@
     },
     {
       "name": "CLRTY-URL-003478",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisKernelSource.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisKernelSource.mis",
       "insert_seq": 3478,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39193,7 +39193,7 @@
     },
     {
       "name": "CLRTY-URL-003479",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MisNativeKernels.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MisNativeKernels.mis",
       "insert_seq": 3479,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39202,7 +39202,7 @@
     },
     {
       "name": "CLRTY-URL-003480",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/MlKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/MlKernelRepo.mis",
       "insert_seq": 3480,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39211,7 +39211,7 @@
     },
     {
       "name": "CLRTY-URL-003481",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/ProtocolStructures.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/ProtocolStructures.mis",
       "insert_seq": 3481,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39220,7 +39220,7 @@
     },
     {
       "name": "CLRTY-URL-003482",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/StaticMlCatalog.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/StaticMlCatalog.mis",
       "insert_seq": 3482,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39229,7 +39229,7 @@
     },
     {
       "name": "CLRTY-URL-003483",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/TickArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/TickArchitecture.mis",
       "insert_seq": 3483,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39238,7 +39238,7 @@
     },
     {
       "name": "CLRTY-URL-003484",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/mis/sections/TickStakingGradient.mis",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/mis/sections/TickStakingGradient.mis",
       "insert_seq": 3484,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39247,7 +39247,7 @@
     },
     {
       "name": "CLRTY-URL-003485",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/blob/main/README.md",
+      "url": "https://github.com/clarity-fintech/governance-ui/blob/main/README.md",
       "insert_seq": 3485,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39256,7 +39256,7 @@
     },
     {
       "name": "CLRTY-URL-003486",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/tree/main",
+      "url": "https://github.com/clarity-fintech/governance-ui/tree/main",
       "insert_seq": 3486,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39265,7 +39265,7 @@
     },
     {
       "name": "CLRTY-URL-003487",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/tree/main/mis/commands",
+      "url": "https://github.com/clarity-fintech/governance-ui/tree/main/mis/commands",
       "insert_seq": 3487,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39274,7 +39274,7 @@
     },
     {
       "name": "CLRTY-URL-003488",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/tree/main/mis/kernel",
+      "url": "https://github.com/clarity-fintech/governance-ui/tree/main/mis/kernel",
       "insert_seq": 3488,
       "store_pack": "store_bind",
       "status": "bound",
@@ -39283,7 +39283,7 @@
     },
     {
       "name": "CLRTY-URL-003489",
-      "url": "https://github.com/clarity-fintech/realms-governance-ui/tree/main/mis/packs",
+      "url": "https://github.com/clarity-fintech/governance-ui/tree/main/mis/packs",
       "insert_seq": 3489,
       "store_pack": "store_bind",
       "status": "bound",
@@ -40957,7 +40957,7 @@
     },
     {
       "name": "CLRTY-URL-003675",
-      "url": "https://github.com/clarity-fintech/squads-v4-core",
+      "url": "https://github.com/clarity-fintech/teams",
       "insert_seq": 3675,
       "store_pack": "store_bind",
       "status": "bound",
@@ -40966,7 +40966,7 @@
     },
     {
       "name": "CLRTY-URL-003676",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/backlinks/MisBacklinkIndex.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/backlinks/MisBacklinkIndex.mis",
       "insert_seq": 3676,
       "store_pack": "store_bind",
       "status": "bound",
@@ -40975,7 +40975,7 @@
     },
     {
       "name": "CLRTY-URL-003677",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/commands/SquadsV4CoreCommandCatalog.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/commands/TeamsCommandCatalog.mis",
       "insert_seq": 3677,
       "store_pack": "store_bind",
       "status": "bound",
@@ -40984,7 +40984,7 @@
     },
     {
       "name": "CLRTY-URL-003678",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/commands/SquadsV4CoreCommands.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/commands/TeamsCommands.mis",
       "insert_seq": 3678,
       "store_pack": "store_bind",
       "status": "bound",
@@ -40993,7 +40993,7 @@
     },
     {
       "name": "CLRTY-URL-003679",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/commands/SquadsV4CoreNetworkBind.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/commands/TeamsNetworkBind.mis",
       "insert_seq": 3679,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41002,7 +41002,7 @@
     },
     {
       "name": "CLRTY-URL-003680",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/kernel/SquadsV4CoreKernel.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/kernel/TeamsKernel.mis",
       "insert_seq": 3680,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41011,7 +41011,7 @@
     },
     {
       "name": "CLRTY-URL-003681",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/packs/execute_window.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/packs/execute_window.mis",
       "insert_seq": 3681,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41020,7 +41020,7 @@
     },
     {
       "name": "CLRTY-URL-003682",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/packs/granular_role.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/packs/granular_role.mis",
       "insert_seq": 3682,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41029,7 +41029,7 @@
     },
     {
       "name": "CLRTY-URL-003683",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/packs/permission_tree.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/packs/permission_tree.mis",
       "insert_seq": 3683,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41038,7 +41038,7 @@
     },
     {
       "name": "CLRTY-URL-003684",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/packs/programmatic_auth.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/packs/programmatic_auth.mis",
       "insert_seq": 3684,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41047,7 +41047,7 @@
     },
     {
       "name": "CLRTY-URL-003685",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/packs/time_lock.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/packs/time_lock.mis",
       "insert_seq": 3685,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41056,7 +41056,7 @@
     },
     {
       "name": "CLRTY-URL-003686",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
       "insert_seq": 3686,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41065,7 +41065,7 @@
     },
     {
       "name": "CLRTY-URL-003687",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/GradientBand.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/GradientBand.mis",
       "insert_seq": 3687,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41074,7 +41074,7 @@
     },
     {
       "name": "CLRTY-URL-003688",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/LanguageRoot.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/LanguageRoot.mis",
       "insert_seq": 3688,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41083,7 +41083,7 @@
     },
     {
       "name": "CLRTY-URL-003689",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisAllCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisAllCodeIndex.mis",
       "insert_seq": 3689,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41092,7 +41092,7 @@
     },
     {
       "name": "CLRTY-URL-003690",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisArchitecture.mis",
       "insert_seq": 3690,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41101,7 +41101,7 @@
     },
     {
       "name": "CLRTY-URL-003691",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MiscCompiler.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MiscCompiler.mis",
       "insert_seq": 3691,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41110,7 +41110,7 @@
     },
     {
       "name": "CLRTY-URL-003692",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisChainIntake.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisChainIntake.mis",
       "insert_seq": 3692,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41119,7 +41119,7 @@
     },
     {
       "name": "CLRTY-URL-003693",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisCodeIndex.mis",
       "insert_seq": 3693,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41128,7 +41128,7 @@
     },
     {
       "name": "CLRTY-URL-003694",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisEcosystemRepos.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisEcosystemRepos.mis",
       "insert_seq": 3694,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41137,7 +41137,7 @@
     },
     {
       "name": "CLRTY-URL-003695",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisKernelActiveOnly.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisKernelActiveOnly.mis",
       "insert_seq": 3695,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41146,7 +41146,7 @@
     },
     {
       "name": "CLRTY-URL-003696",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisKernelSource.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisKernelSource.mis",
       "insert_seq": 3696,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41155,7 +41155,7 @@
     },
     {
       "name": "CLRTY-URL-003697",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MisNativeKernels.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MisNativeKernels.mis",
       "insert_seq": 3697,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41164,7 +41164,7 @@
     },
     {
       "name": "CLRTY-URL-003698",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/MlKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/MlKernelRepo.mis",
       "insert_seq": 3698,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41173,7 +41173,7 @@
     },
     {
       "name": "CLRTY-URL-003699",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/ProtocolStructures.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/ProtocolStructures.mis",
       "insert_seq": 3699,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41182,7 +41182,7 @@
     },
     {
       "name": "CLRTY-URL-003700",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/StaticMlCatalog.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/StaticMlCatalog.mis",
       "insert_seq": 3700,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41191,7 +41191,7 @@
     },
     {
       "name": "CLRTY-URL-003701",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/TickArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/TickArchitecture.mis",
       "insert_seq": 3701,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41200,7 +41200,7 @@
     },
     {
       "name": "CLRTY-URL-003702",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/mis/sections/TickStakingGradient.mis",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/mis/sections/TickStakingGradient.mis",
       "insert_seq": 3702,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41209,7 +41209,7 @@
     },
     {
       "name": "CLRTY-URL-003703",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/blob/main/README.md",
+      "url": "https://github.com/clarity-fintech/teams/blob/main/README.md",
       "insert_seq": 3703,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41218,7 +41218,7 @@
     },
     {
       "name": "CLRTY-URL-003704",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/tree/main",
+      "url": "https://github.com/clarity-fintech/teams/tree/main",
       "insert_seq": 3704,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41227,7 +41227,7 @@
     },
     {
       "name": "CLRTY-URL-003705",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/tree/main/mis/commands",
+      "url": "https://github.com/clarity-fintech/teams/tree/main/mis/commands",
       "insert_seq": 3705,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41236,7 +41236,7 @@
     },
     {
       "name": "CLRTY-URL-003706",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/tree/main/mis/kernel",
+      "url": "https://github.com/clarity-fintech/teams/tree/main/mis/kernel",
       "insert_seq": 3706,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41245,7 +41245,7 @@
     },
     {
       "name": "CLRTY-URL-003707",
-      "url": "https://github.com/clarity-fintech/squads-v4-core/tree/main/mis/packs",
+      "url": "https://github.com/clarity-fintech/teams/tree/main/mis/packs",
       "insert_seq": 3707,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41875,7 +41875,7 @@
     },
     {
       "name": "CLRTY-URL-003777",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program",
+      "url": "https://github.com/clarity-fintech/grants-program",
       "insert_seq": 3777,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41884,7 +41884,7 @@
     },
     {
       "name": "CLRTY-URL-003778",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/backlinks/MisBacklinkIndex.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/backlinks/MisBacklinkIndex.mis",
       "insert_seq": 3778,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41893,7 +41893,7 @@
     },
     {
       "name": "CLRTY-URL-003779",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/commands/SuperteamGrantsProgramCommandCatalog.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/commands/GrantsProgramCommandCatalog.mis",
       "insert_seq": 3779,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41902,7 +41902,7 @@
     },
     {
       "name": "CLRTY-URL-003780",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/commands/SuperteamGrantsProgramCommands.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/commands/GrantsProgramCommands.mis",
       "insert_seq": 3780,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41911,7 +41911,7 @@
     },
     {
       "name": "CLRTY-URL-003781",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/commands/SuperteamGrantsProgramNetworkBind.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/commands/GrantsProgramNetworkBind.mis",
       "insert_seq": 3781,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41920,7 +41920,7 @@
     },
     {
       "name": "CLRTY-URL-003782",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/kernel/SuperteamGrantsProgramKernel.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/kernel/GrantsProgramKernel.mis",
       "insert_seq": 3782,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41929,7 +41929,7 @@
     },
     {
       "name": "CLRTY-URL-003783",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/packs/audit_trail.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/packs/audit_trail.mis",
       "insert_seq": 3783,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41938,7 +41938,7 @@
     },
     {
       "name": "CLRTY-URL-003784",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/packs/grant_track.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/packs/grant_track.mis",
       "insert_seq": 3784,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41947,7 +41947,7 @@
     },
     {
       "name": "CLRTY-URL-003785",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/packs/milestone_escrow.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/packs/milestone_escrow.mis",
       "insert_seq": 3785,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41956,7 +41956,7 @@
     },
     {
       "name": "CLRTY-URL-003786",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/packs/release_gate.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/packs/release_gate.mis",
       "insert_seq": 3786,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41965,7 +41965,7 @@
     },
     {
       "name": "CLRTY-URL-003787",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/packs/treasury_dist.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/packs/treasury_dist.mis",
       "insert_seq": 3787,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41974,7 +41974,7 @@
     },
     {
       "name": "CLRTY-URL-003788",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
       "insert_seq": 3788,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41983,7 +41983,7 @@
     },
     {
       "name": "CLRTY-URL-003789",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/GradientBand.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/GradientBand.mis",
       "insert_seq": 3789,
       "store_pack": "store_bind",
       "status": "bound",
@@ -41992,7 +41992,7 @@
     },
     {
       "name": "CLRTY-URL-003790",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/LanguageRoot.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/LanguageRoot.mis",
       "insert_seq": 3790,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42001,7 +42001,7 @@
     },
     {
       "name": "CLRTY-URL-003791",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisAllCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisAllCodeIndex.mis",
       "insert_seq": 3791,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42010,7 +42010,7 @@
     },
     {
       "name": "CLRTY-URL-003792",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisArchitecture.mis",
       "insert_seq": 3792,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42019,7 +42019,7 @@
     },
     {
       "name": "CLRTY-URL-003793",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MiscCompiler.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MiscCompiler.mis",
       "insert_seq": 3793,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42028,7 +42028,7 @@
     },
     {
       "name": "CLRTY-URL-003794",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisChainIntake.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisChainIntake.mis",
       "insert_seq": 3794,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42037,7 +42037,7 @@
     },
     {
       "name": "CLRTY-URL-003795",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisCodeIndex.mis",
       "insert_seq": 3795,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42046,7 +42046,7 @@
     },
     {
       "name": "CLRTY-URL-003796",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisEcosystemRepos.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisEcosystemRepos.mis",
       "insert_seq": 3796,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42055,7 +42055,7 @@
     },
     {
       "name": "CLRTY-URL-003797",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisKernelActiveOnly.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisKernelActiveOnly.mis",
       "insert_seq": 3797,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42064,7 +42064,7 @@
     },
     {
       "name": "CLRTY-URL-003798",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisKernelSource.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisKernelSource.mis",
       "insert_seq": 3798,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42073,7 +42073,7 @@
     },
     {
       "name": "CLRTY-URL-003799",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MisNativeKernels.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MisNativeKernels.mis",
       "insert_seq": 3799,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42082,7 +42082,7 @@
     },
     {
       "name": "CLRTY-URL-003800",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/MlKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/MlKernelRepo.mis",
       "insert_seq": 3800,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42091,7 +42091,7 @@
     },
     {
       "name": "CLRTY-URL-003801",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/ProtocolStructures.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/ProtocolStructures.mis",
       "insert_seq": 3801,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42100,7 +42100,7 @@
     },
     {
       "name": "CLRTY-URL-003802",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/StaticMlCatalog.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/StaticMlCatalog.mis",
       "insert_seq": 3802,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42109,7 +42109,7 @@
     },
     {
       "name": "CLRTY-URL-003803",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/TickArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/TickArchitecture.mis",
       "insert_seq": 3803,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42118,7 +42118,7 @@
     },
     {
       "name": "CLRTY-URL-003804",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/mis/sections/TickStakingGradient.mis",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/mis/sections/TickStakingGradient.mis",
       "insert_seq": 3804,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42127,7 +42127,7 @@
     },
     {
       "name": "CLRTY-URL-003805",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/blob/main/README.md",
+      "url": "https://github.com/clarity-fintech/grants-program/blob/main/README.md",
       "insert_seq": 3805,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42136,7 +42136,7 @@
     },
     {
       "name": "CLRTY-URL-003806",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/tree/main",
+      "url": "https://github.com/clarity-fintech/grants-program/tree/main",
       "insert_seq": 3806,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42145,7 +42145,7 @@
     },
     {
       "name": "CLRTY-URL-003807",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/tree/main/mis/commands",
+      "url": "https://github.com/clarity-fintech/grants-program/tree/main/mis/commands",
       "insert_seq": 3807,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42154,7 +42154,7 @@
     },
     {
       "name": "CLRTY-URL-003808",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/tree/main/mis/kernel",
+      "url": "https://github.com/clarity-fintech/grants-program/tree/main/mis/kernel",
       "insert_seq": 3808,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42163,7 +42163,7 @@
     },
     {
       "name": "CLRTY-URL-003809",
-      "url": "https://github.com/clarity-fintech/superteam-grants-program/tree/main/mis/packs",
+      "url": "https://github.com/clarity-fintech/grants-program/tree/main/mis/packs",
       "insert_seq": 3809,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42172,7 +42172,7 @@
     },
     {
       "name": "CLRTY-URL-003810",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock",
       "insert_seq": 3810,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42181,7 +42181,7 @@
     },
     {
       "name": "CLRTY-URL-003811",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/backlinks/MisBacklinkIndex.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/backlinks/MisBacklinkIndex.mis",
       "insert_seq": 3811,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42190,7 +42190,7 @@
     },
     {
       "name": "CLRTY-URL-003812",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/commands/TribecaVeLockCommandCatalog.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/commands/VeClrtyLockCommandCatalog.mis",
       "insert_seq": 3812,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42199,7 +42199,7 @@
     },
     {
       "name": "CLRTY-URL-003813",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/commands/TribecaVeLockCommands.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/commands/VeClrtyLockCommands.mis",
       "insert_seq": 3813,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42208,7 +42208,7 @@
     },
     {
       "name": "CLRTY-URL-003814",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/commands/TribecaVeLockNetworkBind.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/commands/VeClrtyLockNetworkBind.mis",
       "insert_seq": 3814,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42217,7 +42217,7 @@
     },
     {
       "name": "CLRTY-URL-003815",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/kernel/TribecaVeLockKernel.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/kernel/VeClrtyLockKernel.mis",
       "insert_seq": 3815,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42226,7 +42226,7 @@
     },
     {
       "name": "CLRTY-URL-003816",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/packs/align_incentive.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/packs/align_incentive.mis",
       "insert_seq": 3816,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42235,7 +42235,7 @@
     },
     {
       "name": "CLRTY-URL-003817",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/packs/lock_duration.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/packs/lock_duration.mis",
       "insert_seq": 3817,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42244,7 +42244,7 @@
     },
     {
       "name": "CLRTY-URL-003818",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/packs/ve_lock.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/packs/ve_lock.mis",
       "insert_seq": 3818,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42253,7 +42253,7 @@
     },
     {
       "name": "CLRTY-URL-003819",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/packs/vote_escrow.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/packs/vote_escrow.mis",
       "insert_seq": 3819,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42262,7 +42262,7 @@
     },
     {
       "name": "CLRTY-URL-003820",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/packs/weight_curve.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/packs/weight_curve.mis",
       "insert_seq": 3820,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42271,7 +42271,7 @@
     },
     {
       "name": "CLRTY-URL-003821",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/ClrtyMisKernelRepo.mis",
       "insert_seq": 3821,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42280,7 +42280,7 @@
     },
     {
       "name": "CLRTY-URL-003822",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/GradientBand.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/GradientBand.mis",
       "insert_seq": 3822,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42289,7 +42289,7 @@
     },
     {
       "name": "CLRTY-URL-003823",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/LanguageRoot.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/LanguageRoot.mis",
       "insert_seq": 3823,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42298,7 +42298,7 @@
     },
     {
       "name": "CLRTY-URL-003824",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisAllCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisAllCodeIndex.mis",
       "insert_seq": 3824,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42307,7 +42307,7 @@
     },
     {
       "name": "CLRTY-URL-003825",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisArchitecture.mis",
       "insert_seq": 3825,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42316,7 +42316,7 @@
     },
     {
       "name": "CLRTY-URL-003826",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MiscCompiler.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MiscCompiler.mis",
       "insert_seq": 3826,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42325,7 +42325,7 @@
     },
     {
       "name": "CLRTY-URL-003827",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisChainIntake.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisChainIntake.mis",
       "insert_seq": 3827,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42334,7 +42334,7 @@
     },
     {
       "name": "CLRTY-URL-003828",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisCodeIndex.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisCodeIndex.mis",
       "insert_seq": 3828,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42343,7 +42343,7 @@
     },
     {
       "name": "CLRTY-URL-003829",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisEcosystemRepos.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisEcosystemRepos.mis",
       "insert_seq": 3829,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42352,7 +42352,7 @@
     },
     {
       "name": "CLRTY-URL-003830",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisKernelActiveOnly.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisKernelActiveOnly.mis",
       "insert_seq": 3830,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42361,7 +42361,7 @@
     },
     {
       "name": "CLRTY-URL-003831",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisKernelSource.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisKernelSource.mis",
       "insert_seq": 3831,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42370,7 +42370,7 @@
     },
     {
       "name": "CLRTY-URL-003832",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MisNativeKernels.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MisNativeKernels.mis",
       "insert_seq": 3832,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42379,7 +42379,7 @@
     },
     {
       "name": "CLRTY-URL-003833",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/MlKernelRepo.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/MlKernelRepo.mis",
       "insert_seq": 3833,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42388,7 +42388,7 @@
     },
     {
       "name": "CLRTY-URL-003834",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/ProtocolStructures.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/ProtocolStructures.mis",
       "insert_seq": 3834,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42397,7 +42397,7 @@
     },
     {
       "name": "CLRTY-URL-003835",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/StaticMlCatalog.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/StaticMlCatalog.mis",
       "insert_seq": 3835,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42406,7 +42406,7 @@
     },
     {
       "name": "CLRTY-URL-003836",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/TickArchitecture.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/TickArchitecture.mis",
       "insert_seq": 3836,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42415,7 +42415,7 @@
     },
     {
       "name": "CLRTY-URL-003837",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/mis/sections/TickStakingGradient.mis",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/mis/sections/TickStakingGradient.mis",
       "insert_seq": 3837,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42424,7 +42424,7 @@
     },
     {
       "name": "CLRTY-URL-003838",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/blob/main/README.md",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/blob/main/README.md",
       "insert_seq": 3838,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42433,7 +42433,7 @@
     },
     {
       "name": "CLRTY-URL-003839",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/tree/main",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/tree/main",
       "insert_seq": 3839,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42442,7 +42442,7 @@
     },
     {
       "name": "CLRTY-URL-003840",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/tree/main/mis/commands",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/tree/main/mis/commands",
       "insert_seq": 3840,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42451,7 +42451,7 @@
     },
     {
       "name": "CLRTY-URL-003841",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/tree/main/mis/kernel",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/tree/main/mis/kernel",
       "insert_seq": 3841,
       "store_pack": "store_bind",
       "status": "bound",
@@ -42460,7 +42460,7 @@
     },
     {
       "name": "CLRTY-URL-003842",
-      "url": "https://github.com/clarity-fintech/tribeca-ve-lock/tree/main/mis/packs",
+      "url": "https://github.com/clarity-fintech/-veCLRTY-Lock/tree/main/mis/packs",
       "insert_seq": 3842,
       "store_pack": "store_bind",
       "status": "bound",
